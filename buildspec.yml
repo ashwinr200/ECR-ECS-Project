@@ -2,7 +2,7 @@ version: 0.2
  
 env:
   variables:
-    AWS_ACCOUNT_ID: "767398132380"
+    AWS_ACCOUNT_ID: "390403886460"
     REPOSITORY_NAME: "website"
     CONTAINER_NAME: "kastro-container"
     CLUSTER_NAME: "Website-cluster"
